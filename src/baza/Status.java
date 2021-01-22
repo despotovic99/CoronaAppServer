@@ -1,0 +1,10 @@
+package baza;
+
+public enum Status {
+	POD_NADZOROM,
+	POZITIVAN,
+	NEGATIVAN,
+	BRZI_PCR_POTREBAN,
+	NIJE_TESTIRAN,
+	NIJE_POD_NADZOROM
+}
